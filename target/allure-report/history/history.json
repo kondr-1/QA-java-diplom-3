@@ -1,0 +1,189 @@
+{
+  "RegistrationTest:RegistrationTest#RegistrationNegative" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "93b0f915599785ac",
+      "status" : "passed",
+      "time" : {
+        "duration" : 1245
+      }
+    } ]
+  },
+  "EnterTest:EnterTest#enterFromRegistration" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "27ea9b38d25af400",
+      "status" : "passed",
+      "time" : {
+        "duration" : 2262
+      }
+    } ]
+  },
+  "PageTransitionsTest:PageTransitionsTest#transitionsPagePersonalArea" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3fd9644bfa10f110",
+      "status" : "passed",
+      "time" : {
+        "duration" : 2342
+      }
+    } ]
+  },
+  "EnterTest:EnterTest#enterFromRestorePassword" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "804a4588c681ec5e",
+      "status" : "passed",
+      "time" : {
+        "duration" : 2426
+      }
+    } ]
+  },
+  "EnterTest:EnterTest#enterAccount" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e80b4b2d7d0e7585",
+      "status" : "passed",
+      "time" : {
+        "duration" : 13067
+      }
+    } ]
+  },
+  "RegistrationTest:RegistrationTest#RegistrationPositive" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "dcc0107bdbf387f0",
+      "status" : "passed",
+      "time" : {
+        "duration" : 1915
+      }
+    } ]
+  },
+  "ExitTest:ExitTest#exitAccount" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "357531ae98e026ee",
+      "status" : "passed",
+      "time" : {
+        "duration" : 2831
+      }
+    } ]
+  },
+  "PageTransitionsTest:PageTransitionsTest#transitionsPageConstructor" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "dcdb0a414060a5b5",
+      "status" : "passed",
+      "time" : {
+        "duration" : 2723
+      }
+    } ]
+  },
+  "PartitionSwitchingCompoundTest:PartitionSwitchingCompoundTest#transitionsIngredientBurger" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "46a937d99b46323b",
+      "status" : "passed",
+      "time" : {
+        "duration" : 1232
+      }
+    } ]
+  },
+  "PageTransitionsTest:PageTransitionsTest#transitionsPageLogo" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ba111ad5201f0535",
+      "status" : "passed",
+      "time" : {
+        "duration" : 3486
+      }
+    } ]
+  },
+  "EnterTest:EnterTest#enterFromPersonArea" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3153e9c93bca6e2b",
+      "status" : "passed",
+      "time" : {
+        "duration" : 1952
+      }
+    } ]
+  }
+}

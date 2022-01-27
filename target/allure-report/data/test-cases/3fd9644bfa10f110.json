@@ -1,0 +1,53 @@
+{
+  "uid" : "3fd9644bfa10f110",
+  "name" : "transitionsPagePersonalArea",
+  "historyId" : "PageTransitionsTest:PageTransitionsTest#transitionsPagePersonalArea",
+  "time" : {
+    "duration" : 2342
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "fad6e88f38e392c2",
+      "name" : "System out",
+      "source" : "fad6e88f38e392c2.txt",
+      "type" : "text/plain",
+      "size" : 291
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "PageTransitionsTest"
+  }, {
+    "name" : "testClass",
+    "value" : "PageTransitionsTest"
+  }, {
+    "name" : "package",
+    "value" : "PageTransitionsTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3fd9644bfa10f110.json",
+  "parameterValues" : [ ]
+}

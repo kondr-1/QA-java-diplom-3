@@ -1,0 +1,53 @@
+{
+  "uid" : "357531ae98e026ee",
+  "name" : "exitAccount",
+  "historyId" : "ExitTest:ExitTest#exitAccount",
+  "time" : {
+    "duration" : 2831
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "28a806b5957d9bbb",
+      "name" : "System out",
+      "source" : "28a806b5957d9bbb.txt",
+      "type" : "text/plain",
+      "size" : 269
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "ExitTest"
+  }, {
+    "name" : "testClass",
+    "value" : "ExitTest"
+  }, {
+    "name" : "package",
+    "value" : "ExitTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "357531ae98e026ee.json",
+  "parameterValues" : [ ]
+}

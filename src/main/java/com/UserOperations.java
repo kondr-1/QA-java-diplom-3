@@ -11,7 +11,7 @@ import static io.restassured.RestAssured.given;
 
 public class UserOperations {
 
-    public static final String EMAIL_POSTFIX = "@yandex.ru";
+    public static final String EMAIL_POSTFIX = "1@mail.ru";
 
     /*
      метод регистрации нового пользователя

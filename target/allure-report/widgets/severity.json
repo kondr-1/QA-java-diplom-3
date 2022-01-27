@@ -1,0 +1,89 @@
+[ {
+  "uid" : "ba111ad5201f0535",
+  "name" : "transitionsPageLogo",
+  "time" : {
+    "duration" : 3486
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e80b4b2d7d0e7585",
+  "name" : "enterAccount",
+  "time" : {
+    "duration" : 13067
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "804a4588c681ec5e",
+  "name" : "enterFromRestorePassword",
+  "time" : {
+    "duration" : 2426
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "27ea9b38d25af400",
+  "name" : "enterFromRegistration",
+  "time" : {
+    "duration" : 2262
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "46a937d99b46323b",
+  "name" : "transitionsIngredientBurger",
+  "time" : {
+    "duration" : 1232
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3153e9c93bca6e2b",
+  "name" : "enterFromPersonArea",
+  "time" : {
+    "duration" : 1952
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3fd9644bfa10f110",
+  "name" : "transitionsPagePersonalArea",
+  "time" : {
+    "duration" : 2342
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "93b0f915599785ac",
+  "name" : "RegistrationNegative",
+  "time" : {
+    "duration" : 1245
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "357531ae98e026ee",
+  "name" : "exitAccount",
+  "time" : {
+    "duration" : 2831
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dcdb0a414060a5b5",
+  "name" : "transitionsPageConstructor",
+  "time" : {
+    "duration" : 2723
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dcc0107bdbf387f0",
+  "name" : "RegistrationPositive",
+  "time" : {
+    "duration" : 1915
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
