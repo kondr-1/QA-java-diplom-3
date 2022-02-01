@@ -1,0 +1,53 @@
+{
+  "uid" : "bedcffaf1c0b4ace",
+  "name" : "transitionsIngredientBurger",
+  "historyId" : "PartitionSwitchingCompoundTest:PartitionSwitchingCompoundTest#transitionsIngredientBurger",
+  "time" : {
+    "duration" : 1171
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "73d5a733548882ae",
+      "name" : "System out",
+      "source" : "73d5a733548882ae.txt",
+      "type" : "text/plain",
+      "size" : 313
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "PartitionSwitchingCompoundTest"
+  }, {
+    "name" : "testClass",
+    "value" : "PartitionSwitchingCompoundTest"
+  }, {
+    "name" : "package",
+    "value" : "PartitionSwitchingCompoundTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bedcffaf1c0b4ace.json",
+  "parameterValues" : [ ]
+}

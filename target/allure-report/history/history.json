@@ -1,0 +1,189 @@
+{
+  "RegistrationTest:RegistrationTest#RegistrationNegative" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "45a7bab8b5b0e4b1",
+      "status" : "passed",
+      "time" : {
+        "duration" : 5584
+      }
+    } ]
+  },
+  "EnterTest:EnterTest#enterFromRegistration" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2be059ca4dca39cc",
+      "status" : "passed",
+      "time" : {
+        "duration" : 2705
+      }
+    } ]
+  },
+  "EnterTest:EnterTest#enterFromRestorePassword" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "485e632e020db04e",
+      "status" : "passed",
+      "time" : {
+        "duration" : 2790
+      }
+    } ]
+  },
+  "PageTransitionsTest:PageTransitionsTest#transitionsPagePersonalArea" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c1462e9559dde545",
+      "status" : "passed",
+      "time" : {
+        "duration" : 2199
+      }
+    } ]
+  },
+  "EnterTest:EnterTest#enterAccount" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "149a3016603b244b",
+      "status" : "passed",
+      "time" : {
+        "duration" : 10046
+      }
+    } ]
+  },
+  "RegistrationTest:RegistrationTest#RegistrationPositive" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "60dfd6cc444f1b6f",
+      "status" : "passed",
+      "time" : {
+        "duration" : 1539
+      }
+    } ]
+  },
+  "ExitTest:ExitTest#exitAccount" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "26e4d7cfa21568e7",
+      "status" : "passed",
+      "time" : {
+        "duration" : 2695
+      }
+    } ]
+  },
+  "PageTransitionsTest:PageTransitionsTest#transitionsPageConstructor" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5e472c702b8b2f54",
+      "status" : "passed",
+      "time" : {
+        "duration" : 2044
+      }
+    } ]
+  },
+  "PageTransitionsTest:PageTransitionsTest#transitionsPageLogo" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "eba8354c23a6eba5",
+      "status" : "passed",
+      "time" : {
+        "duration" : 2010
+      }
+    } ]
+  },
+  "PartitionSwitchingCompoundTest:PartitionSwitchingCompoundTest#transitionsIngredientBurger" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bedcffaf1c0b4ace",
+      "status" : "passed",
+      "time" : {
+        "duration" : 1171
+      }
+    } ]
+  },
+  "EnterTest:EnterTest#enterFromPersonArea" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "87f8177a8bb09ac7",
+      "status" : "passed",
+      "time" : {
+        "duration" : 2033
+      }
+    } ]
+  }
+}

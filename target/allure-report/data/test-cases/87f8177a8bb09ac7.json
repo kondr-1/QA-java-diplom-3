@@ -1,0 +1,53 @@
+{
+  "uid" : "87f8177a8bb09ac7",
+  "name" : "enterFromPersonArea",
+  "historyId" : "EnterTest:EnterTest#enterFromPersonArea",
+  "time" : {
+    "duration" : 2033
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "919b40e1d883b24d",
+      "name" : "System out",
+      "source" : "919b40e1d883b24d.txt",
+      "type" : "text/plain",
+      "size" : 272
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "EnterTest"
+  }, {
+    "name" : "testClass",
+    "value" : "EnterTest"
+  }, {
+    "name" : "package",
+    "value" : "EnterTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "87f8177a8bb09ac7.json",
+  "parameterValues" : [ ]
+}

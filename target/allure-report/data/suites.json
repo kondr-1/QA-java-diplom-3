@@ -1,0 +1,146 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "EnterTest",
+    "children" : [ {
+      "name" : "enterAccount",
+      "uid" : "149a3016603b244b",
+      "parentUid" : "1bb76c2d41fc2782823024360a388e78",
+      "status" : "passed",
+      "time" : {
+        "duration" : 10046
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "enterFromPersonArea",
+      "uid" : "87f8177a8bb09ac7",
+      "parentUid" : "1bb76c2d41fc2782823024360a388e78",
+      "status" : "passed",
+      "time" : {
+        "duration" : 2033
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "enterFromRegistration",
+      "uid" : "2be059ca4dca39cc",
+      "parentUid" : "1bb76c2d41fc2782823024360a388e78",
+      "status" : "passed",
+      "time" : {
+        "duration" : 2705
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "enterFromRestorePassword",
+      "uid" : "485e632e020db04e",
+      "parentUid" : "1bb76c2d41fc2782823024360a388e78",
+      "status" : "passed",
+      "time" : {
+        "duration" : 2790
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "1bb76c2d41fc2782823024360a388e78"
+  }, {
+    "name" : "PageTransitionsTest",
+    "children" : [ {
+      "name" : "transitionsPageConstructor",
+      "uid" : "5e472c702b8b2f54",
+      "parentUid" : "a13d8345882ea49b6759d347dfd1a473",
+      "status" : "passed",
+      "time" : {
+        "duration" : 2044
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "transitionsPagePersonalArea",
+      "uid" : "c1462e9559dde545",
+      "parentUid" : "a13d8345882ea49b6759d347dfd1a473",
+      "status" : "passed",
+      "time" : {
+        "duration" : 2199
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "transitionsPageLogo",
+      "uid" : "eba8354c23a6eba5",
+      "parentUid" : "a13d8345882ea49b6759d347dfd1a473",
+      "status" : "passed",
+      "time" : {
+        "duration" : 2010
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "a13d8345882ea49b6759d347dfd1a473"
+  }, {
+    "name" : "ExitTest",
+    "children" : [ {
+      "name" : "exitAccount",
+      "uid" : "26e4d7cfa21568e7",
+      "parentUid" : "31276ed5b9f323fd9890bf562bd7263f",
+      "status" : "passed",
+      "time" : {
+        "duration" : 2695
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "31276ed5b9f323fd9890bf562bd7263f"
+  }, {
+    "name" : "RegistrationTest",
+    "children" : [ {
+      "name" : "RegistrationPositive",
+      "uid" : "60dfd6cc444f1b6f",
+      "parentUid" : "69284e8223e4673c9952b238191a3c05",
+      "status" : "passed",
+      "time" : {
+        "duration" : 1539
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "RegistrationNegative",
+      "uid" : "45a7bab8b5b0e4b1",
+      "parentUid" : "69284e8223e4673c9952b238191a3c05",
+      "status" : "passed",
+      "time" : {
+        "duration" : 5584
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "69284e8223e4673c9952b238191a3c05"
+  }, {
+    "name" : "PartitionSwitchingCompoundTest",
+    "children" : [ {
+      "name" : "transitionsIngredientBurger",
+      "uid" : "bedcffaf1c0b4ace",
+      "parentUid" : "a31fd8698441ede210223533b19b1366",
+      "status" : "passed",
+      "time" : {
+        "duration" : 1171
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "a31fd8698441ede210223533b19b1366"
+  } ]
+}

@@ -1,0 +1,89 @@
+[ {
+  "uid" : "149a3016603b244b",
+  "name" : "enterAccount",
+  "time" : {
+    "duration" : 10046
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "87f8177a8bb09ac7",
+  "name" : "enterFromPersonArea",
+  "time" : {
+    "duration" : 2033
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5e472c702b8b2f54",
+  "name" : "transitionsPageConstructor",
+  "time" : {
+    "duration" : 2044
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c1462e9559dde545",
+  "name" : "transitionsPagePersonalArea",
+  "time" : {
+    "duration" : 2199
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "26e4d7cfa21568e7",
+  "name" : "exitAccount",
+  "time" : {
+    "duration" : 2695
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "60dfd6cc444f1b6f",
+  "name" : "RegistrationPositive",
+  "time" : {
+    "duration" : 1539
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2be059ca4dca39cc",
+  "name" : "enterFromRegistration",
+  "time" : {
+    "duration" : 2705
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bedcffaf1c0b4ace",
+  "name" : "transitionsIngredientBurger",
+  "time" : {
+    "duration" : 1171
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "45a7bab8b5b0e4b1",
+  "name" : "RegistrationNegative",
+  "time" : {
+    "duration" : 5584
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eba8354c23a6eba5",
+  "name" : "transitionsPageLogo",
+  "time" : {
+    "duration" : 2010
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "485e632e020db04e",
+  "name" : "enterFromRestorePassword",
+  "time" : {
+    "duration" : 2790
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

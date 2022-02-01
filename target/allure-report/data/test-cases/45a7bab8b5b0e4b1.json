@@ -1,0 +1,53 @@
+{
+  "uid" : "45a7bab8b5b0e4b1",
+  "name" : "RegistrationNegative",
+  "historyId" : "RegistrationTest:RegistrationTest#RegistrationNegative",
+  "time" : {
+    "duration" : 5584
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2964d0f95725fdf9",
+      "name" : "System out",
+      "source" : "2964d0f95725fdf9.txt",
+      "type" : "text/plain",
+      "size" : 285
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "RegistrationTest"
+  }, {
+    "name" : "testClass",
+    "value" : "RegistrationTest"
+  }, {
+    "name" : "package",
+    "value" : "RegistrationTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "45a7bab8b5b0e4b1.json",
+  "parameterValues" : [ ]
+}

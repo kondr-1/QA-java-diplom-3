@@ -1,0 +1,53 @@
+{
+  "uid" : "eba8354c23a6eba5",
+  "name" : "transitionsPageLogo",
+  "historyId" : "PageTransitionsTest:PageTransitionsTest#transitionsPageLogo",
+  "time" : {
+    "duration" : 2010
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ae5fa9f0eac1df30",
+      "name" : "System out",
+      "source" : "ae5fa9f0eac1df30.txt",
+      "type" : "text/plain",
+      "size" : 291
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "PageTransitionsTest"
+  }, {
+    "name" : "testClass",
+    "value" : "PageTransitionsTest"
+  }, {
+    "name" : "package",
+    "value" : "PageTransitionsTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eba8354c23a6eba5.json",
+  "parameterValues" : [ ]
+}
